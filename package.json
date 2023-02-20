@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tim2015web/Study.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Ilia Green",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tim2015web/Study/issues"
+  },
+  "homepage": "https://github.com/Tim2015web/Study#readme"
 }
